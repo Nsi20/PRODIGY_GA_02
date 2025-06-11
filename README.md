@@ -1,4 +1,4 @@
-# PRODIGY_GA_02: Image Generation with Pre-trained Models
+# Image Generation with Pre-trained Models
 
 ## Overview
 
